@@ -14,3 +14,8 @@ void funcTest()
 {
 	printf("funcTest\n");
 }
+
+void funcB()
+{
+	printf("funcB\n");
+}
