@@ -22,5 +22,10 @@ void funcC()
 
 void funcDev()
 {
-	printf("funcC\n");
+	printf("funcDev\n");
+}
+
+void funcTest()
+{
+	printf("funcTest\n");
 }
