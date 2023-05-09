@@ -29,3 +29,8 @@ void funcTest()
 {
 	printf("funcTest\n");
 }
+
+void funcD()
+{
+	printf("funcD\n");
+}
