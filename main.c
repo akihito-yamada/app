@@ -7,5 +7,5 @@ void main()
 
 void funcA()
 {
-	printf("funcAa\n");
+	printf("funcAab\n");
 }
