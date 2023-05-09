@@ -19,3 +19,8 @@ void funcB()
 {
 	printf("funcB\n");
 }
+
+void funcC()
+{
+	printf("funcC\n");
+}
