@@ -2,7 +2,7 @@
 
 void main()
 {
-	printf("mainabc\n");
+	printf("mainabcd\n");
 }
 
 void funcA()
