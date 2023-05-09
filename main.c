@@ -19,3 +19,8 @@ void funcC()
 {
 	printf("funcC\n");
 }
+
+void funcDev()
+{
+	printf("funcC\n");
+}
