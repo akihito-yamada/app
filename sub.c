@@ -9,3 +9,8 @@ void funcA()
 {
 	printf("funcAabc\n");
 }
+
+void funcTest()
+{
+	printf("funcTest\n");
+}
