@@ -34,3 +34,8 @@ void funcE()
 {
 	printf("funcE\n");
 }
+
+void funcF()
+{
+	printf("funcF\n");
+}
