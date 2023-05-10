@@ -54,4 +54,4 @@ void funcH()
 {
 	printf("funcG\n");
 }
-xxyy
+xxyyzz
