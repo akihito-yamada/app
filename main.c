@@ -49,3 +49,8 @@ void funcG()
 {
 	printf("funcG\n");
 }
+
+void funcH()
+{
+	printf("funcG\n");
+}
